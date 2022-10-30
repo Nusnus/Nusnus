@@ -32,7 +32,7 @@ I discovered the world of programming when I was about 15 years old and loved it
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Nusnus)
 
 ## What I do the rest of the time...
-<img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" width="512" >
+<img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" width="700" >
 
 
 
