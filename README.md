@@ -6,7 +6,7 @@
 ![Profile views](https://gpvc.arturio.dev/Nusnus)
 [![Twitter: Tomer Nosrati](https://img.shields.io/twitter/follow/tomer_nosrati?style=social)](https://twitter.com/tomer_nosrati)
 [![Linkedin: TomerNosrati](https://img.shields.io/badge/-TomerNosrati-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tomernosrati/)](https://www.linkedin.com/in/tomernosrati/)
-[![GitHub Nusnus](https://img.shields.io/github/followers/nusnus?label=follow&style=social)](https://github.com/Nusus)
+[![GitHub Nusnus](https://img.shields.io/github/followers/nusnus?label=follow&style=social)](https://github.com/Nusnus)
 
 ### Bio 📓
 I see myself as an artist and my art comes in the form of code.
