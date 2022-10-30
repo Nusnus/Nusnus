@@ -17,7 +17,7 @@ I discovered the world of programming when I was about 15 years old and loved it
 ## TL;DR 🍺
 ## GitHub Stats 👀
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nusnus&show_icons=true&theme=radical)
-## GitHub Actibity Graph 📈
+## GitHub Activity Graph 📈
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Nusnus)
 
 ## Contact Me 🤙
