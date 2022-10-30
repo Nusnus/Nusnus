@@ -8,7 +8,11 @@
 [![Linkedin: TomerNosrati](https://img.shields.io/badge/-TomerNosrati-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tomernosrati/)](https://www.linkedin.com/in/tomernosrati/)
 [![GitHub Nusnus](https://img.shields.io/github/followers/nusnus?label=follow&style=social)](https://github.com/Nusus)
 
-- 🔭 I’m currently working on this page.
+### Bio
+I see myself as an artist and my art comes in the form of code.
+I discovered the world of programming when I was about 15 years old and loved it ever since.
+
+[Personal Website 🌐](http://tomernosrati.com/)
 
 ## TL;DR
 ## GitHub Stats
