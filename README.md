@@ -14,10 +14,14 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nusnus)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nusnus&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nusnus&show_icons=true&theme=radical)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Nusnus)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Nusnus)  
 
 ![Profile views](https://gpvc.arturio.dev/Nusnus)  
+
+[![Twitter: Tomer Nosrati](https://img.shields.io/twitter/follow/tomer_nosrati?style=social)](https://twitter.com/tomer_nosrati)
+[![Linkedin: TomerNosrati](https://img.shields.io/badge/-TomerNosrati-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tomernosrati/)](https://www.linkedin.com/in/tomernosrati/)
+[![GitHub Nusnus](https://img.shields.io/github/followers/nusnus?label=follow&style=social)](https://github.com/Nusus)
