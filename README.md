@@ -6,12 +6,15 @@
 ![Profile views](https://gpvc.arturio.dev/Nusnus)
 [![Twitter: Tomer Nosrati](https://img.shields.io/twitter/follow/tomer_nosrati?style=social)](https://twitter.com/tomer_nosrati)
 [![Linkedin: TomerNosrati](https://img.shields.io/badge/-TomerNosrati-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tomernosrati/)](https://www.linkedin.com/in/tomernosrati/)
-[![GitHub Nusnus](https://img.shields.io/github/followers/nusnus?label=follow&style=social)](https://github.com/Nusnus)
+<img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dnusnus&longCache=true"/>
 
 ## TL;DR 🍺
 * Personal Website: http://tomernosrati.com/
 * Contact me on Twitter.
 * CV a.k.a LinkedIn Profile.
+
+![Nusnus's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=Nusnus&theme=algolia)
+
 
 ## Languages and Tools 💻
 <p align="left"> 
@@ -78,8 +81,9 @@
 
 ## GitHub Stats 👀
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nusnus&show_icons=true&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
+
 ## GitHub Activity Graph 📈
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Nusnus)
+[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Nusnus&theme=github-compact)](https://github.com/Nusnus/github-readme-activity-graph)
 
 ## Additional Stats 📊
 ### Top Languages 👅
