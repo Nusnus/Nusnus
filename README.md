@@ -83,7 +83,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nusnus&show_icons=true&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
 
 ## GitHub Activity Graph 📈
-[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Nusnus&theme=github-compact)](https://github.com/Nusnus/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nusnus&theme=github-compact)](https://github.com/Nusnus/github-readme-activity-graph)
 
 ## Additional Stats 📊
 ### Top Languages 👅
