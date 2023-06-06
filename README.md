@@ -3,7 +3,7 @@
 </h1>
 
 # Welcome 👋, I am Tomer Nosrati a.k.a Nusnus
-![Profile views](https://gpvc.arturio.dev/Nusnus)
+![Profile views](https://komarev.com/ghpvc/?username=Nusnus&color=brightgreen)
 [![Twitter: Tomer Nosrati](https://img.shields.io/twitter/follow/tomer_nosrati?style=social)](https://twitter.com/tomer_nosrati)
 [![Linkedin: TomerNosrati](https://img.shields.io/badge/-TomerNosrati-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tomernosrati/)](https://www.linkedin.com/in/tomernosrati/)
 <img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dnusnus&longCache=true"/>
