@@ -15,7 +15,7 @@
 
 ![Nusnus's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=Nusnus&theme=algolia)
 
-## Pinned
+## Pinned 📌
 
 ### Elevate Your Game with E2E Thinking
 Taking an end-to-end approach is more than just a professional technique, it's a lifestyle philosophy. [Read more...](https://www.linkedin.com/pulse/elevate-your-game-e2e-thinking-tomer-nosrati)
