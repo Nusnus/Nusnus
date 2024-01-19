@@ -29,6 +29,9 @@ Imagine the Point-First Approach (PFA) as the "TL;DR" of meaningful conversation
 
 ## Languages and Tools 💻
 <p align="left"> 
+  <a href="https://github.com/celery" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/celery/celery/blob/main/docs/images/celery_128.png" alt="celery" width="40" height="40"/> 
+  </a> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
   </a> 
