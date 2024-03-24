@@ -10,7 +10,9 @@
 
 ## TL;DR 🍺
 * Personal Website: http://tomernosrati.com/
-* Contact me on Twitter.
+* Contact me
+  * Email: tomer.nosrati@gmail.com
+  * X: https://x.com/tomer_nosrati
 * CV a.k.a LinkedIn Profile.
 
 ![Nusnus's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=Nusnus&theme=algolia)
