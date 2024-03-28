@@ -11,14 +11,14 @@ My name is Tomer but my friends call me Nusnus (pronounced "Noosnoos"). I am a s
 For consulting services, please contact me in one of the methods below.<br>
 For additional information, please visit my [Linkedin profile](https://www.linkedin.com/in/tomernosrati/) or keep scrolling.
 
-## Contact 📞
+# Contact 📞
 **Languages:** 🇮🇱 Hebrew, 🇺🇸 English, 🇪🇸 Spanish
 
 [![X: Tomer Nosrati](https://img.shields.io/twitter/follow/tomer_nosrati?style=social)](https://x.com/tomer_nosrati)
 [![Linkedin: TomerNosrati](https://img.shields.io/badge/-TomerNosrati-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tomernosrati/)](https://www.linkedin.com/in/tomernosrati/)
 [![Email: tomer.nosrati@gmail.com](https://img.shields.io/badge/Email-tomer.nosrati%40gmail.com-red.svg)](mailto:tomer.nosrati@gmail.com)
 
-## Tools & Skills
+# Tools & Skills 💻
 [![My Skills](https://skillicons.dev/icons?i=apple,aws,bash,bitbucket,c,cpp,discord,django,docker,flask,git,github,githubactions,gitlab,graphql,idea,jenkins,linux,mysql,nginx,obsidian,postgres,postman,pycharm,py,rabbitmq,redis,sqlite,sublime,ubuntu,vim,vscode,windows,&theme=dark)](https://skillicons.dev)
 
 And more...
@@ -60,10 +60,10 @@ Taking an end-to-end approach is more than just a professional technique, it's a
 
 ### <a href="https://www.linkedin.com/pulse/elevate-your-game-e2e-thinking-tomer-nosrati"><img src="https://github.com/Nusnus/Nusnus/assets/4662342/c15882d9-a13d-4dce-9de4-1194336a654c" alt="Elevate Your Game with E2E Thinking" width="420"/></a>
 
-### The Subtle Art of Making Every Word Count
+## The Subtle Art of Making Every Word Count
 Imagine the Point-First Approach (PFA) as the "TL;DR" of meaningful conversations. It's not just about cutting to the chase; it's about setting the stage for a richer dialogue. By offering a concise "TL;DR" upfront, you respect your audience's time and mental bandwidth, allowing them to quickly grasp the core message. From there, you can dive into details without losing focus. No detours, no fluff—just the essence of what needs to be said, making every word count. [Read more...](https://www.linkedin.com/pulse/subtle-art-making-every-word-count-tomer-nosrati)
 
 #### <a href="https://www.linkedin.com/pulse/subtle-art-making-every-word-count-tomer-nosrati"><img src="https://github.com/Nusnus/Nusnus/assets/4662342/53ee97ac-ebd6-4c89-8bc0-b65be9eee907" alt="The Subtle Art of Making Every Word Count" width="420"/></a>
 
-## What I do the rest of the time...
+# What I do the rest of the time...
 <img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" width="700" >
