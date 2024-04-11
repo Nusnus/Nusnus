@@ -28,10 +28,10 @@ And more...
 <a href="https://github.com/celery/celery">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=celery&theme=react&repo=celery" />
 </a>
-<a href="https://github.com/yeazin/Multi-Authors-advanced-Django-Blog">
+<a href="https://github.com/celery/pytest-celery">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=celery&theme=react&repo=pytest-celery" />
 </a>
- <a href="https://github.com/yeazin/Stackoverflow-Clone">
+ <a href="https://github.com/celery/kombu">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=celery&theme=react&repo=kombu" />
 </a>
 
