@@ -12,7 +12,7 @@ For consulting services, please contact me in one of the methods below.<br>
 For additional information, please visit my [Linkedin profile](https://www.linkedin.com/in/tomernosrati/) or keep scrolling.
 
 # Contact 📞
-**Languages:** 🇮🇱 Hebrew, 🇺🇸 English, 🇪🇸 Spanish
+**Languages:** 🇮🇱 Hebrew, 🇺🇸 English, 🇨🇴 Spanish
 
 [![X: Tomer Nosrati](https://img.shields.io/twitter/follow/tomer_nosrati?style=social)](https://x.com/tomer_nosrati)
 [![Linkedin: TomerNosrati](https://img.shields.io/badge/-TomerNosrati-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tomernosrati/)](https://www.linkedin.com/in/tomernosrati/)
