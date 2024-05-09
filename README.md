@@ -39,11 +39,10 @@ And more...
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Nusnus&count_private=true&theme=algolia&no-bg=true&no-frame=true&rank=SSS,SS,S,AAA,AA,A,SECRET,LONGEST_STREAK,CURRENT_STREAK)](https://github.com/ryo-ma/github-profile-trophy)
 
+![Github stats](https://github-contributor-stats.vercel.app/api?username=Nusnus&theme=algolia&hide_border=true)
+
 <table align="center" width="100%" height="100%" border="0">
    <tr>
-     <td>
-  
-![Github stats](https://github-contributor-stats.vercel.app/api?username=Nusnus&theme=algolia&hide_border=true) </td>
      <td>
   
 ![Github stats](https://github-readme-stats.vercel.app/api?username=nusnus&theme=algolia&show_icons=true&count_private=true&hide=issues&hide_border=true) </td>
