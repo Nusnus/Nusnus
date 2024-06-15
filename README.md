@@ -14,7 +14,7 @@ For additional information, please visit my [Linkedin profile](https://www.linke
 # Contact 📞
 **Languages:** 🇮🇱 Hebrew, 🇺🇸 English, 🇨🇴 Spanish
 
-[![X: Tomer Nosrati](https://img.shields.io/twitter/follow/tomer_nosrati?style=social)](https://x.com/tomer_nosrati)
+[![X: Tomer Nosrati](https://img.shields.io/twitter/follow/smilingnosrati?style=social)](https://x.com/smilingnosrati)
 [![Linkedin: TomerNosrati](https://img.shields.io/badge/-TomerNosrati-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tomernosrati/)](https://www.linkedin.com/in/tomernosrati/)
 [![Email: tomer.nosrati@gmail.com](https://img.shields.io/badge/Email-tomer.nosrati%40gmail.com-red.svg)](mailto:tomer.nosrati@gmail.com)
 
