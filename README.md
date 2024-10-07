@@ -26,14 +26,41 @@ And more...
 # Active Projects 📁
 
 <a href="https://github.com/celery/celery">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=celery&theme=react&repo=celery" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=celery&theme=algolia&repo=celery" />
 </a>
 <a href="https://github.com/celery/pytest-celery">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=celery&theme=react&repo=pytest-celery" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=celery&theme=algolia&repo=pytest-celery" />
 </a>
  <a href="https://github.com/celery/kombu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=celery&theme=react&repo=kombu" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=celery&theme=algolia&repo=kombu" />
 </a>
+
+## Contributor Rank (Since 2022-07-17) 📍
+⭐ Most active contributor
+<table align="center">
+  <tr>
+    <td align="center"><strong>celery ⭐</strong></td>
+    <td align="center"><strong>pytest-celery ⭐</strong></td>
+    <td align="center"><strong>kombu</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/celery/celery/graphs/contributors?from=07%2F17%2F2022">
+        <img src="https://github.com/user-attachments/assets/50266937-d2d3-45cb-a62c-09e4b2a0c588" width="350px" alt="Celery Contributor Rank"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/celery/pytest-celery/graphs/contributors?from=07%2F17%2F2022">
+        <img src="https://github.com/user-attachments/assets/ecd8ab8e-4bcf-45be-b3db-01ef9baebbc6" width="350px" alt="Pytest-Celery Contributor Rank"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/celery/kombu/graphs/contributors?from=07%2F17%2F2022">
+        <img src="https://github.com/user-attachments/assets/4074dbb8-e9d3-4b6b-a3d9-b600b3cdd819" width="350px" alt="Kombu Contributor Rank"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 # GitHub Stats 🏆📈📊🎳
 
