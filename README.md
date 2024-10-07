@@ -44,6 +44,11 @@ And more...
     <td align="center"><strong>kombu</strong></td>
   </tr>
   <tr>
+    <td align="center"><strong>Contributions:<br>https://github.com/celery/celery/commits?author=Nusnus</strong></td>
+    <td align="center"><strong>Contributions:<br>https://github.com/celery/pytest-celery/commits?author=Nusnus</strong></td>
+    <td align="center"><strong>Contributions:<br>https://github.com/celery/kombu/commits?author=Nusnus</strong></td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/celery/celery/graphs/contributors?from=07%2F17%2F2022">
         <img src="https://github.com/user-attachments/assets/50266937-d2d3-45cb-a62c-09e4b2a0c588" width="350px" alt="Celery Contributor Rank"/>
