@@ -84,6 +84,13 @@ And more...
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nusnus&theme=github-compact)](https://github.com/Nusnus/github-readme-activity-graph)
 
+# Collaborations
+
+## Blacksmith
+Celery: Now Powered By Blacksmith. [Read more...](https://www.linkedin.com/pulse/celery-now-powered-blacksmith-tomer-nosrati-ew68e/?trackingId=DWHH49WqS2iOW8Jf5N1kEg%3D%3D)
+
+### <a href="https://www.linkedin.com/posts/blacksmithrun_were-always-on-the-lookout-for-meaningful-activity-7252033655399727104-qjpc?utm_source=share&utm_medium=member_desktop"><img src="https://media.licdn.com/dms/image/v2/D4E12AQHkQOoQLm95tw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1729000106837?e=1734566400&v=beta&t=U9iHn-RpTWykfER4KWR4fR0bDgZI3uxQyKBGwVBShUc" alt="Celery: Now Powered By Blacksmith" width="420"/></a>
+
 # My Articles 📌
 
 ## Elevate Your Game with E2E Thinking
