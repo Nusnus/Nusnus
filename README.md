@@ -11,12 +11,19 @@ My name is Tomer but my friends call me Nusnus (pronounced "Noosnoos"). I am a s
 For consulting services, please contact me in one of the methods below.<br>
 For additional information, please visit my [Linkedin profile](https://www.linkedin.com/in/tomernosrati/) or keep scrolling.
 
+# Sponsoring
+To support my efforts in the [Celery Organization](https://github.com/celery), please consider becoming an [official sponsor](https://opencollective.com/celery).
+
+<a href="https://opencollective.com/celery"><img src="https://opencollective.com/static/images/opencollectivelogo-footer-n.svg" alt="Open Collective logo" width="200"/></a>
+
 # Contact 📞
 **Languages:** 🇮🇱 Hebrew, 🇺🇸 English, 🇨🇴 Spanish
 
-[![X: Tomer Nosrati](https://img.shields.io/twitter/follow/smilingnosrati?style=social)](https://x.com/smilingnosrati)
-[![Linkedin: TomerNosrati](https://img.shields.io/badge/-TomerNosrati-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tomernosrati/)](https://www.linkedin.com/in/tomernosrati/)
-[![Email: tomer.nosrati@gmail.com](https://img.shields.io/badge/Email-tomer.nosrati%40gmail.com-red.svg)](mailto:tomer.nosrati@gmail.com)
+| **Personal** | **Celery** |
+|--------------|-------------------------|
+| [![X: Tomer Nosrati](https://img.shields.io/twitter/follow/smilingnosrati?style=social)](https://x.com/smilingnosrati) | [![X: Celery Organization](https://img.shields.io/twitter/follow/celeryorg?style=social)](https://x.com/celeryorg) |
+| [![Linkedin: TomerNosrati](https://img.shields.io/badge/-TomerNosrati-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tomernosrati/)](https://www.linkedin.com/in/tomernosrati/) | [![Linkedin: Celery Organization](https://img.shields.io/badge/-CeleryOrganization-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/celeryorg)](https://www.linkedin.com/company/celeryorg) |
+| [![Email: tomer.nosrati@gmail.com](https://img.shields.io/badge/Email-tomer.nosrati%40gmail.com-red.svg)](mailto:tomer.nosrati@gmail.com) |  |
 
 # Tools & Skills 💻
 [![My Skills](https://skillicons.dev/icons?i=apple,aws,bash,bitbucket,c,cpp,discord,django,docker,flask,git,github,githubactions,gitlab,graphql,idea,jenkins,linux,mysql,nginx,obsidian,postgres,postman,pycharm,py,rabbitmq,redis,sqlite,sublime,ubuntu,vim,vscode,windows,&theme=dark)](https://skillicons.dev)
