@@ -23,7 +23,7 @@ To support my efforts in the [Celery Organization](https://github.com/celery), p
 |--------------|-------------------------|
 | [![X: Tomer Nosrati](https://img.shields.io/twitter/follow/smilingnosrati?style=social)](https://x.com/smilingnosrati) | [![X: Celery Organization](https://img.shields.io/twitter/follow/celeryorg?style=social)](https://x.com/celeryorg) |
 | [![Linkedin: TomerNosrati](https://img.shields.io/badge/-TomerNosrati-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tomernosrati/)](https://www.linkedin.com/in/tomernosrati/) | [![Linkedin: Celery Organization](https://img.shields.io/badge/-CeleryOrganization-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/celeryorg)](https://www.linkedin.com/company/celeryorg) |
-| [![Email: tomer.nosrati@gmail.com](https://img.shields.io/badge/Email-tomer.nosrati%40gmail.com-red.svg)](mailto:tomer.nosrati@gmail.com) |  |
+| [![Email: tomer.nosrati@gmail.com](https://img.shields.io/badge/Email-tomer.nosrati%40gmail.com-red.svg)](mailto:tomer.nosrati@gmail.com) | [Read More](https://github.com/celery/celery/discussions/9560) |
 
 # Tools & Skills 💻
 [![My Skills](https://skillicons.dev/icons?i=apple,aws,bash,bitbucket,c,cpp,discord,django,docker,flask,git,github,githubactions,gitlab,graphql,idea,jenkins,linux,mysql,nginx,obsidian,postgres,postman,pycharm,py,rabbitmq,redis,sqlite,sublime,ubuntu,vim,vscode,windows,&theme=dark)](https://skillicons.dev)
