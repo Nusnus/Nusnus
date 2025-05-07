@@ -93,6 +93,14 @@ And more...
 
 # Collaborations
 
+## Celery DeepWiki (powered by Devin AI)
+- Read on [GitHub](https://github.com/celery/celery/discussions/9690).
+- Read on [X](https://x.com/smilingnosrati/status/1920104278116696513).
+- Read on [LinkedIn](https://www.linkedin.com/posts/tomernosrati_one-of-our-maintainers-biggest-challenges-activity-7325870037959860224-NrIs).
+
+
+<a href="https://github.com/celery/celery/discussions/9690"><img src="https://github.com/user-attachments/assets/37cb16da-916b-4226-865e-dce743cfae05" alt="Celery DeepWiki" width="420"/></a>
+
 ## Blacksmith
 Celery: Now Powered By Blacksmith. [Read more...](https://www.linkedin.com/pulse/celery-now-powered-blacksmith-tomer-nosrati-ew68e/?trackingId=DWHH49WqS2iOW8Jf5N1kEg%3D%3D)
 
