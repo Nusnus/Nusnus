@@ -93,11 +93,14 @@ And more...
 
 # Collaborations
 
+## Blacksmith Customer Story
+
+### <a href="https://www.blacksmith.sh/customer-stories/celery"><img src="https://github.com/user-attachments/assets/959cfbbc-44d4-484e-bd48-501e2b363b87" alt="Celery x Blacksmith Customer Story" width="420"/></a>
+
 ## Celery DeepWiki (powered by Devin AI)
 - Read on [GitHub](https://github.com/celery/celery/discussions/9690).
 - Read on [X](https://x.com/smilingnosrati/status/1920104278116696513).
 - Read on [LinkedIn](https://www.linkedin.com/posts/tomernosrati_one-of-our-maintainers-biggest-challenges-activity-7325870037959860224-NrIs).
-
 
 <a href="https://github.com/celery/celery/discussions/9690"><img src="https://github.com/user-attachments/assets/37cb16da-916b-4226-865e-dce743cfae05" alt="Celery DeepWiki" width="420"/></a>
 
