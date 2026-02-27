@@ -1,125 +1,153 @@
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=nusnus&data=followers,commits&theme=nautilus)](https://github.com/nusnus)
+<div align="center">
 
-# Hey There 👋, I am Tomer Nosrati a.k.a Nusnus
-[![Website: http://tomernosrati.com](https://img.shields.io/badge/Website-http%3A%2F%2Ftomernosrati.com-blue.svg)](https://linktr.ee/tomernosrati)
-![Profile views](https://komarev.com/ghpvc/?username=Nusnus&color=brightgreen)
-<img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dnusnus&longCache=true"/>
+<br/><br/>
 
-Thank you for visiting my profile 😊<br>
-My name is Tomer but my friends call me Nusnus (pronounced "Noosnoos"). I am a software engineer and the tech-lead of the [pytest-celery](https://pytest-celery.readthedocs.io/) plugin. As an owner in the [Celery organization](https://github.com/celery), I manage the everyday activities of the organization in collaboration with the rest of the team to maintain the organization's projects and community.
+# Tomer Nosrati
 
-For consulting services, please contact me in one of the methods below.<br>
-For additional information, please visit my [Linkedin profile](https://www.linkedin.com/in/tomernosrati/) or keep scrolling.
+### Software Engineer &bull; Open Source Maintainer
 
-# Sponsoring
-To support my efforts in the [Celery Organization](https://github.com/celery), please consider becoming an [official sponsor](https://opencollective.com/celery).
+<br/>
 
-<a href="https://opencollective.com/celery"><img src="https://opencollective.com/static/images/opencollectivelogo-footer-n.svg" alt="Open Collective logo" width="200"/></a>
+*a.k.a* ***Nusnus***
 
-# Contact 📞
-**Languages:** 🇮🇱 Hebrew, 🇺🇸 English, 🇨🇴 Spanish
+<br/>
 
-| **Personal** | **Celery** |
-|--------------|-------------------------|
-| [![X: Tomer Nosrati](https://img.shields.io/twitter/follow/smilingnosrati?style=social)](https://x.com/smilingnosrati) | [![X: Celery Organization](https://img.shields.io/twitter/follow/celeryorg?style=social)](https://x.com/celeryorg) |
-| [![Linkedin: TomerNosrati](https://img.shields.io/badge/-TomerNosrati-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tomernosrati/)](https://www.linkedin.com/in/tomernosrati/) | [![Linkedin: Celery Organization](https://img.shields.io/badge/-CeleryOrganization-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/celeryorg)](https://www.linkedin.com/company/celeryorg) |
-| [![Email: tomer.nosrati@gmail.com](https://img.shields.io/badge/Email-tomer.nosrati%40gmail.com-red.svg)](mailto:tomer.nosrati@gmail.com) | [Read More](https://github.com/celery/celery/discussions/9560) |
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomernosrati/)&nbsp;&nbsp;
+[![X](https://img.shields.io/badge/@smilingnosrati-%23000000.svg?&style=flat&logo=x&logoColor=white)](https://x.com/smilingnosrati)&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/tomer.nosrati@gmail.com-%23D14836.svg?&style=flat&logo=gmail&logoColor=white)](mailto:tomer.nosrati@gmail.com)&nbsp;&nbsp;
+[![Web](https://img.shields.io/badge/tomernosrati.com-%230A66C2.svg?&style=flat&logo=googlechrome&logoColor=white)](https://linktr.ee/tomernosrati)
 
-# Tools & Skills 💻
-[![My Skills](https://skillicons.dev/icons?i=apple,aws,bash,bitbucket,c,cpp,discord,django,docker,flask,git,github,githubactions,gitlab,graphql,idea,jenkins,linux,mysql,nginx,obsidian,postgres,postman,pycharm,py,rabbitmq,redis,sqlite,sublime,ubuntu,vim,vscode,windows,&theme=dark)](https://skillicons.dev)
+<br/><br/>
 
-And more...
+</div>
 
-# Active Projects 📁
+---
 
-<a href="https://github.com/celery/celery">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=celery&theme=algolia&repo=celery" />
-</a>
-<a href="https://github.com/celery/pytest-celery">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=celery&theme=algolia&repo=pytest-celery" />
-</a>
- <a href="https://github.com/celery/kombu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=celery&theme=algolia&repo=kombu" />
-</a>
+<br/>
 
-## Contributor Rank (Since 2022-07-17) 📍
-⭐ Most active contributor
-<table align="center">
-  <tr>
-    <td align="center"><strong>celery ⭐</strong></td>
-    <td align="center"><strong>pytest-celery ⭐</strong></td>
-    <td align="center"><strong>kombu</strong></td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Contributions:<br>https://github.com/celery/celery/commits?author=Nusnus</strong></td>
-    <td align="center"><strong>Contributions:<br>https://github.com/celery/pytest-celery/commits?author=Nusnus</strong></td>
-    <td align="center"><strong>Contributions:<br>https://github.com/celery/kombu/commits?author=Nusnus</strong></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/celery/celery/graphs/contributors?from=07%2F17%2F2022">
-        <img src="https://github.com/user-attachments/assets/50266937-d2d3-45cb-a62c-09e4b2a0c588" width="350px" alt="Celery Contributor Rank"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/celery/pytest-celery/graphs/contributors?from=07%2F17%2F2022">
-        <img src="https://github.com/user-attachments/assets/ecd8ab8e-4bcf-45be-b3db-01ef9baebbc6" width="350px" alt="Pytest-Celery Contributor Rank"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/celery/kombu/graphs/contributors?from=07%2F17%2F2022">
-        <img src="https://github.com/user-attachments/assets/4074dbb8-e9d3-4b6b-a3d9-b600b3cdd819" width="350px" alt="Kombu Contributor Rank"/>
-      </a>
-    </td>
-  </tr>
-</table>
+I build and maintain distributed systems in the Python ecosystem.
 
-# GitHub Stats 🏆📈📊🎳
+As **Owner** of the [Celery Organization](https://github.com/celery) and **Tech-Lead** of [pytest-celery](https://pytest-celery.readthedocs.io/), I manage the everyday activities of the organization in collaboration with the rest of the team.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Nusnus&count_private=true&theme=algolia&no-bg=true&no-frame=true&rank=SSS,SS,S,AAA,AA,A,SECRET,LONGEST_STREAK,CURRENT_STREAK)](https://github.com/ryo-ma/github-profile-trophy)
+I speak **Hebrew**, **English**, and **Spanish**.
 
-![Github stats](https://github-contributor-stats.vercel.app/api?username=Nusnus&theme=algolia&hide_border=true)
+> For consulting services, please [get in touch](mailto:tomer.nosrati@gmail.com).
 
-<table align="center" width="100%" height="100%" border="0">
-   <tr>
-     <td>
-  
-![Github stats](https://github-readme-stats.vercel.app/api?username=nusnus&theme=algolia&show_icons=true&count_private=true&hide=issues&hide_border=true) </td>
-     <td> ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Nusnus&count_private=true&theme=algolia&hide_border=true)      <td> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nusnus&theme=algolia&layout=compact&hide_border=true)](https://github.com/nusnus) </td>
-   </tr>
-  </table>
+<br/>
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nusnus&theme=github-compact)](https://github.com/Nusnus/github-readme-activity-graph)
+---
 
-# Collaborations
+<br/>
 
-## Blacksmith Customer Story
+### Projects
 
-### <a href="https://www.blacksmith.sh/customer-stories/celery"><img src="https://github.com/user-attachments/assets/959cfbbc-44d4-484e-bd48-501e2b363b87" alt="Celery x Blacksmith Customer Story" width="420"/></a>
+| | Repository | Role |
+|---|---|---|
+| 1 | [celery/celery](https://github.com/celery/celery) | Owner &bull; Maintainer |
+| 2 | [celery/pytest-celery](https://github.com/celery/pytest-celery) | Tech-Lead &bull; Creator |
+| 3 | [celery/kombu](https://github.com/celery/kombu) | Maintainer |
 
-## Celery DeepWiki (powered by Devin AI)
-- Read on [GitHub](https://github.com/celery/celery/discussions/9690).
-- Read on [X](https://x.com/smilingnosrati/status/1920104278116696513).
-- Read on [LinkedIn](https://www.linkedin.com/posts/tomernosrati_one-of-our-maintainers-biggest-challenges-activity-7325870037959860224-NrIs).
+<br/>
 
-<a href="https://github.com/celery/celery/discussions/9690"><img src="https://github.com/user-attachments/assets/37cb16da-916b-4226-865e-dce743cfae05" alt="Celery DeepWiki" width="420"/></a>
+<details>
+<summary>Contributor rank since July 2022</summary>
+<br/>
 
-## Blacksmith
-Celery: Now Powered By Blacksmith. [Read more...](https://www.linkedin.com/pulse/celery-now-powered-blacksmith-tomer-nosrati-ew68e/?trackingId=DWHH49WqS2iOW8Jf5N1kEg%3D%3D)
+<div align="center">
 
-### <a href="https://www.linkedin.com/posts/blacksmithrun_were-always-on-the-lookout-for-meaningful-activity-7252033655399727104-qjpc?utm_source=share&utm_medium=member_desktop"><img src="https://github.com/user-attachments/assets/2f86cc54-dcf1-4e19-b297-38abb24f49e4" alt="Celery: Now Powered By Blacksmith" width="420"/></a>
+| celery | pytest-celery | kombu |
+|:---:|:---:|:---:|
+| [![Celery](https://github.com/user-attachments/assets/50266937-d2d3-45cb-a62c-09e4b2a0c588)](https://github.com/celery/celery/graphs/contributors?from=07%2F17%2F2022) | [![pytest-celery](https://github.com/user-attachments/assets/ecd8ab8e-4bcf-45be-b3db-01ef9baebbc6)](https://github.com/celery/pytest-celery/graphs/contributors?from=07%2F17%2F2022) | [![Kombu](https://github.com/user-attachments/assets/4074dbb8-e9d3-4b6b-a3d9-b600b3cdd819)](https://github.com/celery/kombu/graphs/contributors?from=07%2F17%2F2022) |
 
-# My Articles 📌
+</div>
 
-## Elevate Your Game with E2E Thinking
-Taking an end-to-end approach is more than just a professional technique, it's a lifestyle philosophy. [Read more...](https://www.linkedin.com/pulse/elevate-your-game-e2e-thinking-tomer-nosrati)
+</details>
 
-### <a href="https://www.linkedin.com/pulse/elevate-your-game-e2e-thinking-tomer-nosrati"><img src="https://github.com/Nusnus/Nusnus/assets/4662342/c15882d9-a13d-4dce-9de4-1194336a654c" alt="Elevate Your Game with E2E Thinking" width="420"/></a>
+<br/>
 
-## The Subtle Art of Making Every Word Count
-Imagine the Point-First Approach (PFA) as the "TL;DR" of meaningful conversations. It's not just about cutting to the chase; it's about setting the stage for a richer dialogue. By offering a concise "TL;DR" upfront, you respect your audience's time and mental bandwidth, allowing them to quickly grasp the core message. From there, you can dive into details without losing focus. No detours, no fluff—just the essence of what needs to be said, making every word count. [Read more...](https://www.linkedin.com/pulse/subtle-art-making-every-word-count-tomer-nosrati)
+---
 
-#### <a href="https://www.linkedin.com/pulse/subtle-art-making-every-word-count-tomer-nosrati"><img src="https://github.com/Nusnus/Nusnus/assets/4662342/53ee97ac-ebd6-4c89-8bc0-b65be9eee907" alt="The Subtle Art of Making Every Word Count" width="420"/></a>
+<br/>
 
-# What I do the rest of the time...
-<img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" width="700" >
+### Tools
+
+**Languages** &mdash; Python, C, C++, Bash, GraphQL
+
+**Frameworks** &mdash; Django, Flask, pytest
+
+**Infrastructure** &mdash; Docker, AWS, Linux, Nginx, Jenkins
+
+**Data** &mdash; PostgreSQL, MySQL, Redis, RabbitMQ, SQLite
+
+**DevOps** &mdash; Git, GitHub Actions, GitLab CI, Bitbucket Pipelines
+
+<br/>
+
+---
+
+<br/>
+
+### Writing
+
+**[Elevate Your Game with E2E Thinking](https://www.linkedin.com/pulse/elevate-your-game-e2e-thinking-tomer-nosrati)** &mdash; Taking an end-to-end approach is more than just a professional technique, it's a lifestyle philosophy.
+
+**[The Subtle Art of Making Every Word Count](https://www.linkedin.com/pulse/subtle-art-making-every-word-count-tomer-nosrati)** &mdash; The Point-First Approach (PFA) as the "TL;DR" of meaningful conversations.
+
+<br/>
+
+---
+
+<br/>
+
+### Collaborations
+
+**[Blacksmith](https://www.blacksmith.sh/customer-stories/celery)** &mdash; Infrastructure sponsor for Celery CI/CD. [Read the announcement &rarr;](https://www.linkedin.com/pulse/celery-now-powered-blacksmith-tomer-nosrati-ew68e/?trackingId=DWHH49WqS2iOW8Jf5N1kEg%3D%3D)
+
+**[Celery DeepWiki](https://github.com/celery/celery/discussions/9690)** &mdash; AI-powered documentation initiative by Devin AI. [Post on X &rarr;](https://x.com/smilingnosrati/status/1920104278116696513)
+
+<br/>
+
+---
+
+<br/>
+
+### Sponsoring
+
+To support the [Celery Organization](https://github.com/celery), consider becoming an [official sponsor](https://opencollective.com/celery).
+
+<br/>
+
+<div align="center">
+
+<a href="https://opencollective.com/celery"><img src="https://opencollective.com/static/images/opencollectivelogo-footer-n.svg" alt="Open Collective" width="160"/></a>
+
+<br/><br/>
+
+[![](https://img.shields.io/badge/@celeryorg-%23000000.svg?&style=flat&logo=x&logoColor=white)](https://x.com/celeryorg)&nbsp;&nbsp;
+[![](https://img.shields.io/badge/Celery_Organization-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/celeryorg)
+
+<br/>
+
+---
+
+<br/>
+
+<details>
+<summary>Stats</summary>
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=nusnus&theme=default&show_icons=true&count_private=true&hide=issues&hide_border=true&hide_title=true" alt="Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nusnus&theme=default&layout=compact&hide_border=true&hide_title=true" alt="Languages" />
+
+</details>
+
+<br/><br/>
+
+<img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" width="500" alt="">
+
+<br/><br/>
+
+![](https://komarev.com/ghpvc/?username=Nusnus&color=grey&style=flat&label=views)
+
+</div>
