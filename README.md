@@ -76,7 +76,7 @@ I build and maintain distributed systems in the Python ecosystem. As **Owner** o
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite&theme=dark" alt="Databases" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark" alt="Databases" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,bitbucket&theme=dark" alt="DevOps" />
 
 <br/><br/>
