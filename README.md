@@ -15,7 +15,7 @@
 <br/><br/>
 
 <!-- Social badges row -->
-<a href="https://linktr.ee/tomernosrati"><img src="https://img.shields.io/badge/Website-tomernosrati.com-7aa2f7?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1a1b27" /></a>&nbsp;
+<a href="https://tomernosrati.com"><img src="https://img.shields.io/badge/Website-tomernosrati.com-7aa2f7?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1a1b27" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/tomernosrati/"><img src="https://img.shields.io/badge/LinkedIn-Tomer_Nosrati-7aa2f7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" /></a>&nbsp;
 <a href="https://x.com/smilingnosrati"><img src="https://img.shields.io/badge/X-@smilingnosrati-7aa2f7?style=for-the-badge&logo=x&logoColor=white&labelColor=1a1b27" /></a>&nbsp;
 <a href="mailto:tomer.nosrati@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-7aa2f7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" /></a>
