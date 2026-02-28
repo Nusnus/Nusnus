@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&section=header&text=TOMER%20NOSRATI&fontSize=50&fontColor=333&animation=fadeIn&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&section=header&text=TOMER%20NOSRATI&fontSize=50&fontColor=333&animation=fadeIn&fontAlignY=50#gh-light-mode-only" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&section=header&text=TOMER%20NOSRATI&fontSize=50&fontColor=ddd&animation=fadeIn&fontAlignY=50#gh-dark-mode-only" width="100%"/>
 
 *Issue No. 1 &bull; Software Engineering &bull; Open Source &bull; Distributed Systems*
 
@@ -29,7 +30,7 @@ He speaks three languages: **Hebrew**, **English**, and **Spanish**.
 
 ### Connect
 
-[![Web](https://img.shields.io/badge/tomernosrati.com-000?style=flat-square)](https://linktr.ee/tomernosrati)
+[![Web](https://img.shields.io/badge/tomernosrati.com-000?style=flat-square)](https://tomernosrati.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomernosrati/)
 
