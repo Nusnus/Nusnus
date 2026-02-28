@@ -17,14 +17,14 @@
 ```
 +---------------------------+
 |     TOMER  NOSRATI        |
-|     a.k.a  "NUSNUS"      |
+|     a.k.a  "NUSNUS"       |
 +---------------------------+
 |  CLASS:  Software Engineer|
 |  RANK:   Org Owner        |
 |  GUILD:  Celery           |
 |  TITLE:  Tech-Lead        |
 +---------------------------+
-|  LANG:  HE | EN | ES     |
+|  LANG:  HE | EN | ES      |
 +---------------------------+
 ```
 
