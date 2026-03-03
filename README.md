@@ -93,6 +93,12 @@ And more...
 
 # Collaborations
 
+## An Early Preview of SWE-1.6 and Research Update by [Cognition](https://cognition.ai/)
+
+> Extra credit: We want to highlight some members of our contractor team who have made outsized contributions to data & tooling: Claudio Costa, Martin McKeaveney, Lance Fuchia, **Tomer Nosrati**, Merlijn Vos.
+
+### <a href="https://cognition.ai/blog/swe-1-6-preview"><img src="https://cdn.sanity.io/images/2mc9cv2v/production/bfc2ccda7ef26adbdd56ea68389eeb917434986d-1588x1058.png" alt="An Early Preview of SWE-1.6 and Research Update" width="420"/></a>
+
 ## Blacksmith Customer Story
 
 ### <a href="https://www.blacksmith.sh/customer-stories/celery"><img src="https://github.com/user-attachments/assets/959cfbbc-44d4-484e-bd48-501e2b363b87" alt="Celery x Blacksmith Customer Story" width="420"/></a>
