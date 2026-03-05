@@ -22,6 +22,18 @@ aider.tags
 # Augment
 .augment/
 
+# Claude AI
+.claude/
+
+# Crush AI
+.crush.json
+
+# Model Context Protocol
+.mcp.json
+
+# OpenCode
+opencode.json
+
 # General AI assistant artifacts
 .ai/
 *.ai.md
