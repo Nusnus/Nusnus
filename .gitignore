@@ -1,0 +1,168 @@
+# ============================================================================
+# AI Agent Tools & Assistants
+# ============================================================================
+
+# Cursor AI
+.cursor/
+.cursorignore
+
+# Aider
+.aider*
+aider.tags
+
+# GitHub Copilot
+.copilot/
+
+# Continue
+.continue/
+
+# Codeium
+.codeium/
+
+# Augment
+.augment/
+
+# General AI assistant artifacts
+.ai/
+*.ai.md
+ai-context/
+
+
+# ============================================================================
+# IDEs & Editors
+# ============================================================================
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# JetBrains IDEs (IntelliJ, PyCharm, WebStorm, etc.)
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Vim
+*.swp
+*.swo
+*~
+.vim/
+
+# Emacs
+*~
+\#*\#
+.\#*
+
+
+# ============================================================================
+# Operating Systems
+# ============================================================================
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# Linux
+.directory
+.Trash-*
+
+
+# ============================================================================
+# Node.js / JavaScript / TypeScript
+# ============================================================================
+
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.npm
+.yarn/
+.pnp.*
+dist/
+build/
+*.tsbuildinfo
+.eslintcache
+
+
+# ============================================================================
+# Python
+# ============================================================================
+
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+pip-log.txt
+pip-delete-this-directory.txt
+.pytest_cache/
+.coverage
+htmlcov/
+*.egg-info/
+dist/
+build/
+
+
+# ============================================================================
+# Build Artifacts & Dependencies
+# ============================================================================
+
+*.log
+*.tmp
+*.temp
+.cache/
+.parcel-cache/
+.next/
+.nuxt/
+out/
+
+
+# ============================================================================
+# Environment & Secrets
+# ============================================================================
+
+.env
+.env.local
+.env.*.local
+*.key
+*.pem
+secrets/
+credentials/
+
+
+# ============================================================================
+# Temporary & Cache Files
+# ============================================================================
+
+*.bak
+*.backup
+*.old
+*.orig
+.tmp/
+tmp/
+temp/
+
