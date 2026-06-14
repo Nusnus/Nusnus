@@ -75,6 +75,7 @@ Top contributor across the Celery ecosystem — **#1 on pytest-celery**, **#4 on
 
 ## 🤝 Collaborations & Recognition
 
+- **[Cognition](https://cognition.ai/blog/frontier-code) — FrontierCode Benchmark.** One of 20+ world-class open-source maintainers who built FrontierCode, Cognition's first benchmark for code _mergeability_ — authoring eval tasks from the repos they maintain (40+ hrs each) and defining what "mergeable" means. Quoted in the [announcement](https://x.com/cognition/status/2064061031912288715): _"Working with the team behind FrontierCode was a privilege… Where others grade like a CI, FrontierCode grades like a tech lead."_
 - **[Cognition](https://cognition.ai/blog/swe-1-6-preview) — SWE-1.6 Extra Credit.** Highlighted for outsized contributions to data & tooling as a member of the contractor team.
 - **[Blacksmith](https://www.blacksmith.sh/customer-stories/celery) — Celery, now powered by Blacksmith.** Faster, more reliable CI/CD infrastructure for the Celery organization. ([announcement](https://www.linkedin.com/pulse/celery-now-powered-blacksmith-tomer-nosrati-ew68e/))
 - **[Devin AI](https://deepwiki.com/celery/celery) — Celery DeepWiki.** AI-generated documentation and a knowledge base for the Celery ecosystem. ([discussion](https://github.com/celery/celery/discussions/9690) · [X](https://x.com/smilingnosrati/status/1920104278116696513))
