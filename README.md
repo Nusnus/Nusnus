@@ -29,7 +29,7 @@ My portfolio is a **live dashboard** that refreshes daily with real GitHub data 
 
 ### **[nusnus.github.io →](https://nusnus.github.io)**
 
-For consulting, collaboration, or just to say hi, reach me through any of the [contact methods below](#-contact).
+For consulting, collaboration, or just to say hi — my contact details are at the bottom of this page.
 
 ## 🧰 Tech & Tools
 
