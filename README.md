@@ -60,7 +60,7 @@ I'm an **owner of [Celery](https://github.com/celery/celery)** and the **creator
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nusnus&include_all_commits=true&count_private=true&show_icons=true&hide=stars,issues,contribs&theme=algolia&hide_border=true" alt="GitHub stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nusnus&count_private=true&show_icons=true&hide=stars,issues,contribs&theme=algolia&hide_border=true" alt="GitHub stats" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nusnus&exclude_repo=nusnus.github.io,Nusnus&layout=compact&theme=algolia&hide_border=true" alt="Top languages" height="170" />
 </p>
 
