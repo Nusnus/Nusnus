@@ -129,3 +129,5 @@ Imagine the Point-First Approach (PFA) as the "TL;DR" of meaningful conversation
 
 # What I do the rest of the time...
 <img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" width="700" >
+
+<!-- Environment verified: static profile repo, no build/deps/tests. -->
